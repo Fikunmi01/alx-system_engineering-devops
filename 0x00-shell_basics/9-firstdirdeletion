@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-rm  /tmp/my_first_directory
-rm /tmp/betty  /tmp/my_first_directory
-rm  /tmp/my_first_directory
-rm  /tmp/my_first_directory
 rm -r  /tmp/my_first_directory
-=======
- /tmp/my_first_directory
->>>>>>> 7e6aab16798e85a03d495670df2f951f6261cdc5
